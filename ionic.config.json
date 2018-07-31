@@ -1,0 +1,7 @@
+{
+  "name": "plant-watering-system",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
