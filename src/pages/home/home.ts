@@ -11,4 +11,10 @@ export class HomePage {
 
   }
 
+  private sendWateringSocket(){
+    console.log('sending watering socket');
+     //var socket = io('http://localhost');
+     //socket.emit('my other event');
+  }
+
 }
